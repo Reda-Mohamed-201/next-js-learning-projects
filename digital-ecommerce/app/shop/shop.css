@@ -1,0 +1,146 @@
+.container {
+    width: 98%;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  h1 {
+  
+    text-align: center;
+    width: 100%;
+    font-weight: bolder;
+    font-size: 42px;
+    padding: 30px;
+    color: goldenrod;
+  }
+  .categories {
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px 0;
+    margin-bottom: 20px;
+  
+  }
+  
+  .categories ul {
+  
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    background-color: goldenrod;
+    padding: 10px;
+    border-radius: 25px;
+    gap: 10px;
+  
+  
+  }
+  
+  .categories ul li {
+  
+    /* background-color: #fff; */
+    padding: 10px;
+    border-radius: 25px;
+    width: 50%;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    font-weight: bolder;
+    font-size: larger;
+    letter-spacing: 1px;
+    transition: 0.3s ease-in-out;
+  
+  }
+  .categories ul li.active {
+  
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 25px;
+    width: 50%;
+    text-align: center;
+    cursor: pointer;
+    color: goldenrod;
+    font-weight: bolder;
+    font-size: larger;
+    letter-spacing: 1px;
+  }
+  
+  .products-grid {
+  
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+
+  /* //// */
+  
+  .product-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .product-image {
+    width: 150px; 
+    height: 150px; 
+    object-fit: contain; 
+    border-radius: 4px;
+  
+  }
+  
+  .product-title {
+    margin-top: 15px;
+    font-size: 16px;
+    color: #333;
+    height: 70px;
+  
+  }
+  
+  .product-price {
+  
+    color: darkgoldenrod;
+  }
+  
+  .addToCart {
+  
+    border: 1px solid gray;
+    outline: none;
+    padding: 10px;
+    margin: 15px 0;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color:gold;
+    color: rgb(54, 44, 6);
+    width: 100%;
+    
+  }
+  
+  .addToCart:hover {
+  
+    background-color:gold;
+    color: #fff;
+  
+  }
+  
+  a {
+  
+    font-style: none;
+    text-decoration: none;
+  }

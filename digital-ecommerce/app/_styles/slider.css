@@ -1,0 +1,18 @@
+.change-background {
+  position: absolute;
+  top: 95%;
+  font-size: xx-large;
+  margin-right: 3px;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  color: #ddd;
+}
+.left {
+  left: 30%;
+}
+.right {
+  right: 30%;
+}
