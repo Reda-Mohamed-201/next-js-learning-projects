@@ -849,6 +849,9 @@ video {
 .min-h-max {
   min-height: max-content;
 }
+.min-h-screen {
+  min-height: 100vh;
+}
 .w-32 {
   width: 8rem;
 }

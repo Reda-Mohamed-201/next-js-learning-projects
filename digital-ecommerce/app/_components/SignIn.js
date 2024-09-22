@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import Shopingpic from "@/public/shopingpic.jpg";
+import Shopingpic from "../../public/shopingpic.jpg";
 import Image from "next/image";
 import { handleLogIn } from "../_lib/actions";
 import { useRouter } from "next/navigation";

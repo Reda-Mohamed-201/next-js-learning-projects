@@ -44,6 +44,7 @@ export async function handleLogIn(formData) {
   const password = formData.get("password");
 
   const guest = await getGuest(email); // supabase
+  // console.log('guest ' , guest)
   const fullName = guest?.fullName;
   if (!guest) {
     throw new Error("This Account does not exist please sign up first 🤦‍♂️");

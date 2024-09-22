@@ -1,11 +1,14 @@
 import "./blog.css";
 import "./all.min.css";
-import blog from "@/public/blog1.jpg";
-import blog1 from "@/public/blog11.jpg";
-import blog2 from "@/public/blog22.jpg";
-import blog3 from "@/public/blog33.jpg";
+import blog from "../../public/blog1.jpg";
+import blog1 from "../../public/blog11.jpg";
+import blog2 from "../../public/blog22.jpg";
+import blog3 from "../../public/blog33.jpg";
 import Image from "next/image";
 function page() {
+  console.log("Google ID:", process.env.AUTH_GOOGLE_ID);
+  console.log("Google Secret:", process.env.AUTH_GOOGLE_SECRET);
+
   return (
     <div className="about">
       <div className="">

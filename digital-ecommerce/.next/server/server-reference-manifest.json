@@ -1,5 +1,54 @@
 {
-  "node": {},
+  "node": {
+    "1c6a37aaf4dcd0519c3aa675dd61316b9d3dd7fe": {
+      "workers": {
+        "app/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/signup/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/account/page": "action-browser"
+      }
+    },
+    "4fec24a4f0aff4ffe2d3b634106ae05123d1e214": {
+      "workers": {
+        "app/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/signup/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/account/page": "action-browser"
+      }
+    },
+    "bed822418aa602fca141917c018bf8854d10def7": {
+      "workers": {
+        "app/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/signup/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/account/page": "action-browser"
+      }
+    },
+    "d242e9b652f108f3250e93711bc2ea1abb07e542": {
+      "workers": {
+        "app/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Clearning-next-js-projects%5C%5Cnext-js-learning-projects%5C%5Cdigital-ecommerce%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signUpManual%22%2C%22signOutAction%22%2C%22handleLogIn%22%2C%22signInAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/signup/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/account/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "h79gWNl9Otu2dGCgGBRYEHUu83oMvcONggTcOw6E8M8="
+  "encryptionKey": "mto3gDwbIuj+5Cm6Ym9w09smWRa30Bm+r1ETLsDe+tw="
 }

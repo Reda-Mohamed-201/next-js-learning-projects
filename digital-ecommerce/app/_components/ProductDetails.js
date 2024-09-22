@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Product from "@/app/_components/Product";
+import Product from "./Product";
 import {
   AiFillStar,
   AiOutlineMinus,

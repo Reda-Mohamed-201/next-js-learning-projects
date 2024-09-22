@@ -5,7 +5,7 @@ import Link from "next/link";
 import { AiOutlineShopping } from "react-icons/ai";
 import { CiSearch } from "react-icons/ci";
 import { useCart } from "./CartContext";
-import defaultUser from "@/public/defaultUser.webp";
+import defaultUser from "../../public/defaultUser.webp";
 import Image from "next/image";
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";

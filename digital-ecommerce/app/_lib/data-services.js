@@ -39,9 +39,7 @@ export async function getGuest(email) {
   const { data, error } = await supabase
     .from("guests")
     .select("*")
-    .eq("email", email)
-    .single();
-
+    .eq("email", email);
   // No error here! We handle the possibility of no guest in the sign in callback
   return data;
 }
@@ -56,6 +54,3 @@ export async function createGuest(newGuest) {
 
   return data;
 }
-
-
-

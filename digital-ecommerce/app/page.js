@@ -1,6 +1,5 @@
-
-import Product from "@/app/_components/Product";
-import FooterBanner from "@/app/_components/FooterBanner";
+import Product from "./_components/Product";
+import FooterBanner from "./_components/FooterBanner";
 import HeroBanner from "./_components/HeroBanner";
 import { getBanner, getProducts } from "./_lib/data-services";
 import Link from "next/link";

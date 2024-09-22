@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import SignUpButton from "./SignUpButton";
-import Shopingpic from "@/public/shopingpic.jpg";
+import Shopingpic from "../../public/shopingpic.jpg";
 import Image from "next/image";
 import { signUpManual } from "../_lib/actions";
 // import { signUpManual } from "../_lib/actions";

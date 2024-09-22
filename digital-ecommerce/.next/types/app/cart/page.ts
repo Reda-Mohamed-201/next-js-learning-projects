@@ -1,4 +1,4 @@
-// File: E:\digital-ecommerce - V2\app\cart\page.js
+// File: E:\learning-next-js-projects\next-js-learning-projects\digital-ecommerce\app\cart\page.js
 import * as entry from '../../../../app/cart/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

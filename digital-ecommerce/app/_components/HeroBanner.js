@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { urlFor } from "../_lib/sanityClient";
-import "@/app/_styles/slider.css";
+import "../_styles/slider.css"
 import { useState } from "react";
 function HeroBanner({ bannerData }) {
   const [ind, setInd] = useState(0);

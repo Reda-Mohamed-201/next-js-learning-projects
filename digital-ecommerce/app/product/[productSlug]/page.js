@@ -1,4 +1,4 @@
-import { getProduct, getProducts } from "@/app/_lib/data-services";
+import { getProduct, getProducts } from "../../_lib/data-services";
 import ProductDetails from "../../_components/ProductDetails";
 async function page({ params }) {
   // console.log(params)

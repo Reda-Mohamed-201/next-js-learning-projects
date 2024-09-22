@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import appstore from "@/public/appstore.png";
-import googleplay from "@/public/googleplay.png";
+import appstore from "../../public/appstore.png";
+import googleplay from "../../public/googleplay.png";
 // import {
 //   CalendarDaysIcon,
 //   HomeIcon,

@@ -1,4 +1,4 @@
-// File: E:\digital-ecommerce - V2\app\api\stripe\route.ts
+// File: E:\learning-next-js-projects\next-js-learning-projects\digital-ecommerce\app\api\stripe\route.ts
 import * as entry from '../../../../../app/api/stripe/route.js'
 import type { NextRequest } from 'next/server.js'
 

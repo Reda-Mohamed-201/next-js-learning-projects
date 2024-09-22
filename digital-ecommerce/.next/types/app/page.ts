@@ -1,4 +1,4 @@
-// File: E:\digital-ecommerce - V2\app\page.js
+// File: E:\learning-next-js-projects\next-js-learning-projects\digital-ecommerce\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
